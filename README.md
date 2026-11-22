@@ -30,4 +30,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sairamnarishetti/leetcode/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sairamnarishetti/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
