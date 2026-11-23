@@ -22,6 +22,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sairamnarishetti/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sairamnarishetti/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/sairamnarishetti/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sairamnarishetti/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/sairamnarishetti/leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
