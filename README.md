@@ -40,9 +40,11 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sairamnarishetti/leetcode/tree/master/1920-build-array-from-permutation) |
+| [3360-stone-removal-game](https://github.com/sairamnarishetti/leetcode/tree/master/3360-stone-removal-game) |
 ## Math
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/sairamnarishetti/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sairamnarishetti/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sliding Window
 |  |
