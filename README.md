@@ -4,10 +4,12 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sairamnarishetti/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sairamnarishetti/leetcode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sairamnarishetti/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sairamnarishetti/leetcode/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -16,6 +18,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sairamnarishetti/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sairamnarishetti/leetcode/tree/master/0100-same-tree) |
 ## Array
 |  |
@@ -58,4 +61,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sairamnarishetti/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sairamnarishetti/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
