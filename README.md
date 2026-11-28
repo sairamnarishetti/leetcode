@@ -65,4 +65,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sairamnarishetti/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/sairamnarishetti/leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
